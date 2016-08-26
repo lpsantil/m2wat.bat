@@ -12,5 +12,6 @@ A FreeDOS batch file to convert mTCP config files to WatTCP config files
 * `set MTCPCFG=C:\FDOS\MTCP.CFG`
 * `set WATTCP.CFG=C:\FDOS`
 * `m2wat.bat`
+
 Or if you have `MTCPCFG` and `WATTCP.CFG` setup in your environment, say, via `AUTOEXEC.BAT`
 * `m2wat.bat`
